@@ -14,6 +14,7 @@
 		F0456B541D10AD2000F62118 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0456B521D10AD2000F62118 /* LaunchScreen.storyboard */; };
 		F0456B5F1D10AD2000F62118 /* tip_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0456B5E1D10AD2000F62118 /* tip_calculatorTests.swift */; };
 		F0456B6A1D10AD2000F62118 /* tip_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0456B691D10AD2000F62118 /* tip_calculatorUITests.swift */; };
+		F0456B781D10B89D00F62118 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0456B771D10B89D00F62118 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F0456B651D10AD2000F62118 /* tip-calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tip-calculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0456B691D10AD2000F62118 /* tip_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tip_calculatorUITests.swift; sourceTree = "<group>"; };
 		F0456B6B1D10AD2000F62118 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0456B771D10B89D00F62118 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				F0456B491D10AD2000F62118 /* AppDelegate.swift */,
 				F0456B4B1D10AD2000F62118 /* ViewController.swift */,
 				F0456B4D1D10AD2000F62118 /* Main.storyboard */,
+				F0456B771D10B89D00F62118 /* SettingsViewController.swift */,
 				F0456B501D10AD2000F62118 /* Assets.xcassets */,
 				F0456B521D10AD2000F62118 /* LaunchScreen.storyboard */,
 				F0456B551D10AD2000F62118 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				F0456B4C1D10AD2000F62118 /* ViewController.swift in Sources */,
 				F0456B4A1D10AD2000F62118 /* AppDelegate.swift in Sources */,
+				F0456B781D10B89D00F62118 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
